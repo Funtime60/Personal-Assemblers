@@ -1,2 +1,2 @@
-# Factorio-Mod-Template
+# Personal Assemblers
 A Factorio mod that adds assemblers that fit in equipment grids to craft items in "parallel".
